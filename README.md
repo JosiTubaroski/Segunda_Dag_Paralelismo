@@ -9,6 +9,8 @@ Repetir o mesmo código da primeira dag, porem alternando a ordem de execução.
 
 # Terceira Dag: Precedencia
 
+- Dag com Precedencia
+
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/terceiradag/Terceira_Dag_Precedencia.png">
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/terceiradag/Terceira_Dag_Graph.png">
